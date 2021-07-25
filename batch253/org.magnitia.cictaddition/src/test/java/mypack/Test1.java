@@ -7,8 +7,8 @@ public class Test1
 	@Test
 	public void method()
 	{
-		int x=10;
-		int y=20;
+		int x=100;
+		int y=200;
 		int z=x+y;
 		System.out.println("Output is "+z);
 	}
